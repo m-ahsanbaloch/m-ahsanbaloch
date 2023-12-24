@@ -8,7 +8,7 @@
 - 💬 Ask me about **Html**
 
 - 📫 How to reach me **ingeniouslogo@gmail.com**
-
+                      **linkedin.com/in/ahsansamad01**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/ahsanbaloch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahsanbaloch/" height="30" width="40" /></a>
