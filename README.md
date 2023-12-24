@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://ahsansamad.netlify.app](http://ahsansamad.netlify.app)
 
-- 💬 Ask me about **Html**
+- 💬 Ask me about **Html**,**CSS**,**JAVASCRIPT**
 
 - 📫 How to reach me **ingeniouslogo@gmail.com** , https://www.linkedin.com/in/ahsansamad01/
                       
