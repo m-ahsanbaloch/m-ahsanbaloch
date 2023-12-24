@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Html**
 
-- 📫 How to reach me **ingeniouslogo@gmail.com** , https://https://www.linkedin.com/in/ahsansamad01/
+- 📫 How to reach me **ingeniouslogo@gmail.com** , https://www.linkedin.com/in/ahsansamad01/
                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
