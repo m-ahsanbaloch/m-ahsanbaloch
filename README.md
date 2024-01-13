@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Smit Web and mobile development**
 
-- 👨‍💻 All of my projects are available at [http://ahsansamad.netlify.app](http://ahsansamad.netlify.app)
+- 👨‍💻 All of my projects are available at [http://ahsanbaloshi.netlify.app](http://ahsanbaloshi.netlify.app)
 
 - 💬 Ask me about **Html**,**CSS**,**JAVASCRIPT**
 
