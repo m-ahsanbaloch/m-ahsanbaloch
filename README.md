@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahsan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
- <! ---- 🌱 I’m currently learning **Smit Web and mobile development** -->
+ <! --- 🌱 I’m currently learning **Smit Web and mobile development** -->
 
 - 👨‍💻 All of my projects are available at [http://ahsanbaloshi.netlify.app](http://ahsanbaloshi.netlify.app)
 
