@@ -5,9 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [http://ahsanbaloshi.netlify.app](http://ahsanbaloshi.netlify.app)
 
-- 💬 Ask me about **Html**,**CSS**,**JAVASCRIPT**
+<!--- 💬 Ask me about **Html**,**CSS**,**JAVASCRIPT** -->
 
-- 📫 How to reach me **ingeniouslogo@gmail.com** , https://www.linkedin.com/in/ahsansamad01/
+
+<!--- 📫 How to reach me **ingeniouslogo@gmail.com** , https://www.linkedin.com/in/ahsansamad01/ -->
                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
